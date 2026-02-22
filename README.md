@@ -221,10 +221,24 @@ npm start
 
 ## 👨‍💻 Author
 
-**Satyam Kumar Mishra**
+<div align="center">
 
-* LinkedIn: https://www.linkedin.com/in/satyam-kumar-mishra-9bb980291/
-* GitHub: https://github.com/Satyam6201
+### Satyam Kumar Mishra
+
+<p>
+
+<a href="https://www.linkedin.com/in/satyam-kumar-mishra-dev" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Satyam6201" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</div>
+
 
 ---
 
