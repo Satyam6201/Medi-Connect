@@ -245,9 +245,3 @@ npm start
 ## ⭐ Support
 
 If you like this project, please **star ⭐ the repository** — it really helps and motivates me to build more projects!
-
----
-
-## 📄 License
-
-This project is created for learning and portfolio purposes.
