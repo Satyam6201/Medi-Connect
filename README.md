@@ -234,14 +234,5 @@ npm start
 <a href="https://github.com/Satyam6201" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
-
 </div>
-
-
----
-
-## ⭐ Support
-
-If you like this project, please **star ⭐ the repository** — it really helps and motivates me to build more projects!
