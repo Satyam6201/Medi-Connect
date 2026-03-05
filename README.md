@@ -198,13 +198,6 @@ npm start
 * Appointment APIs
 * Payment APIs
 * Admin Management APIs
-
----
-
-## 📸 Screenshots
-
-> Add screenshots here (Home Page, Doctor List, Booking Page, Admin Dashboard)
-
 ---
 
 ## 📈 Future Improvements
