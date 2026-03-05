@@ -11,9 +11,7 @@
 <a href="https://github.com/Satyam6201/Medi-Connect" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 </p>
-
 </div>
 
 ---
